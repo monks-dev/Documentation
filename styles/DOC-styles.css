@@ -6,7 +6,7 @@ html, body {
 
 
 
-  #navbar {
+#navbar {
     position: fixed;
     left: 0;
     top: 0;
@@ -82,7 +82,7 @@ html, body {
     margin: 10px;
     border-radius: 5px;
   }
-  @media only screen and (max-width: 815px) {
+@media only screen and (max-width: 815px) {
     /* For mobile phones: */
     #navbar ul {
       border: 1px solid;
@@ -109,7 +109,7 @@ html, body {
     }
   }
   
-  @media only screen and (max-width: 400px) {
+@media only screen and (max-width: 400px) {
     #main-doc {
       margin-left: -10px;
     }
